@@ -1,0 +1,7 @@
+{
+  "name": "com.runi.math.viewer",
+  "displayName": "Run-i Math Problem Viewer",
+  "version": "1.0.0",
+  "unity": "2019.2.12f1",
+  "description": "Problem Viewer package for problem resource"
+}
